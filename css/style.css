@@ -1,0 +1,21 @@
+#section-1 {
+    background-image: url(../flower1.jpg) ;
+    background-position: top;
+
+}
+
+#section-2 {
+    background-color: cornflowerblue;
+}
+
+#section-3 {
+    background-color: peru;
+}
+
+#section-4 {
+    background-color: yellowgreen;
+}
+#heading-main
+{
+    font-size: 10vh;
+}
